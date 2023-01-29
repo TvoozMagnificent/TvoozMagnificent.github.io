@@ -1,4 +1,4 @@
-**Does Markdown Work? **
+**Does Markdown Work?**
 
 *Let's hope so*
 
