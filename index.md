@@ -1,5 +1,9 @@
 **Does Markdown Work?**
 
+$\LaTeX$?
+
+$$\frac12$$
+
 *Let's hope so*
 
 - 1
