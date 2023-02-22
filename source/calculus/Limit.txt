@@ -1,0 +1,4 @@
+Limit
+A [Limit] can be calculated intuitively by definition. <p>
+In particular, in the case of [Calculus], we take the [Limit] to 0.
+When we do so, we treat the variable in question as an [Infinitesimal].

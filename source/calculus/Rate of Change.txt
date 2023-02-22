@@ -1,0 +1,8 @@
+Rate of Change
+A [Rate of Change] is like calculating speed, you take
+the distance divided by time. <p>
+In mathematics, a [Rate of Change] is the change in the y
+value divided by the change in the x value. This is typically
+depicted by the slope of the line between two points. <p>
+In [Calculus], specifically, this is depicted as the slope
+of the line tangent to the function at that point.

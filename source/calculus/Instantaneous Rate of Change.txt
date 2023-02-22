@@ -1,0 +1,4 @@
+Instantaneous Rate of Change
+[Instantaneous Rate of Change] is what defines [Derivatives]. <p>
+[Instantaneous Rate of Change] is essentially [Rate of Change],
+but the speed [Limit]s to 0.

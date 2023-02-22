@@ -1,0 +1,4 @@
+Derivative
+A [Derivative] is an [Instantaneous Rate of Change]. <p>
+It can be calculated using [Derivative Rules]. <p>
+P.S. See some [Derivative Examples].

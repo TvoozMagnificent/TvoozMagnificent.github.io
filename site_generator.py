@@ -3,7 +3,7 @@ from glob import glob
 from re import sub
 from os import mkdir
 
-projects = ["test"]
+projects = ["test", "calculus"]
 
 for project in projects:
     site_url = f"TvoozMagnificent.github.io/{project}/"

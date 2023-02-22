@@ -1,0 +1,6 @@
+Infinitesimal
+An [Infinitesimal], per <a href="https://en.wikipedia.org/wiki/Infinitesimal">
+Wikipedia Definition</a>, is "a quantity that is closer to zero than any standard
+real number, but is not zero." <p>
+In terms of calculation, an [Infinitesimal] can be treated as zero, but can also
+be divided (e.g. an [Infinitesimal] divided by itself is 1).
