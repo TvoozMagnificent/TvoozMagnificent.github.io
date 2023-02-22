@@ -21,8 +21,7 @@ for project in projects:
     except: pass
 
     for file in filenames:
-        content = open(f'{file}.txt').read().strip().split('\n', 1)
-        text = "# " + content[0] + '\n\n\n\n\n'
+        text = open(f'{file}.txt').read().strip().split('\n', 1)[-1]
         for to_replace in filenames:
             text = text.replace(f'[{to_replace.split("/")[-1]}]',
                 f'[{filenames[to_replace]}]({to_replace.split("/")[-1]}.html)')
