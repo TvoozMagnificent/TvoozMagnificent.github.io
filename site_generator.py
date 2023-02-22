@@ -17,5 +17,5 @@ for file in filenames:
     text = open(f'{file}.txt').read().strip().split('\n', 1)[1]
     for to_replace in filenames:
         text = text.replace(f'[{to_replace.split("/")[-1]}]',
-            f'<a href="{to_replace.split("/")[-1]}.html">{filenames[to_replace]}</a>')
-    open(f'{file.replace("/source", "")}.html', 'w').write(text)
+            f'[{filenames[to_replace]}]({to_replace.split("/")[-1]}.md)')
+    open(f'{file.replace("/source", "")}.md', 'w').write(text)
