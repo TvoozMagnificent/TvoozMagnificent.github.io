@@ -1,2 +1,2 @@
-ONE!!!
+ONE
 [two] and [two]
