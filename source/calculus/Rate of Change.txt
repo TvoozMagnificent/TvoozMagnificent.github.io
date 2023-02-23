@@ -1,5 +1,5 @@
 Rate of Change
-A [Rate of Change] is like calculating speed, you take
+Calculating [Rate of Change] is like calculating speed, you take
 the distance divided by time. <p>
 In mathematics, a [Rate of Change] is the change in the y
 value divided by the change in the x value. This is typically

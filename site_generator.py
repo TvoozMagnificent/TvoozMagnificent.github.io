@@ -3,8 +3,8 @@ from glob import glob
 from re import sub
 from os import mkdir
 
-projects = ["test", "calculus"]
-
+from split import repo
+projects = [repo]
 for project in projects:
     site_url = f"TvoozMagnificent.github.io/{project}/"
     source_directory = \
